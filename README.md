@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @animagine
 - 👀 I’m interested in product design
-- 🌱 I’m currently learning how to use Figma
-- 💞️ I’m looking to collaborate on Product design projects
+- 🌱 I’m currently learning how to be a DevOps Engineer
+- 💞️ I’m looking to learn more about cloud engineering
 - 📫 How to reach me animagine@live.com
 
 <!---
