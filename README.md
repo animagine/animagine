@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ufuoma Avwenagha
 - 👀 I love pizza and design
-- 🌱 I’m currently learning how to be a DevOps Engineer
-- 💞️ I’m looking to learn more about cloud engineering
+- 🌱 I’m currently learning DevOps
+- 💞️ I’m looking to learn more about DevOps
 - 📫 How to reach me animagine@live.com
 
 <!---
