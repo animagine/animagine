@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Ufuoma Avwenagha
-- 🌱 I’m currently learning Frontend Development with Edx sponsored by the UK Gov.
+- 👋 Hi, I’m Ufuoma Avwenagha (Frontend Developer)
+- 🌱 Intern at DizzitUp
 - 👀 I love pizza and art
 - 💞️ I’m looking to learn more about DevOps
 
